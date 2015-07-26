@@ -42,3 +42,6 @@ Do the validation of the data.
 
 Partition the data for test and training. Then do the prediction using Random Forest Model.
 
+########################################
+myprogram.R
+https://github.com/github722105/pmlproject/blob/master/myprogram.R
